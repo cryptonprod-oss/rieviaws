@@ -4,7 +4,7 @@
 
 ## Стек
 
-- Python 3.11+
+- Python 3.10+
 - aiogram 3.x
 - aiosqlite
 - python-dotenv
@@ -39,7 +39,7 @@
 ## Установка и запуск
 
 ```bash
-python3.11 -m venv .venv
+python3.10 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env
